@@ -91,6 +91,41 @@ I'm a senior engineer who's spent 7+ years turning complex requirements into rel
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=web-dev0521&theme=github-compact&hide_border=true&bg_color=00000000&color=58a6ff&line=58a6ff&point=adbac7&area=true&area_color=1f6feb" width="95%" />
 
+<br>
+
+<table>
+  <tr>
+    <td align="center"><b>2019</b></td>
+    <td align="center"><b>2020</b></td>
+    <td align="center"><b>2021</b></td>
+    <td align="center"><b>2022</b></td>
+    <td align="center"><b>2023</b></td>
+    <td align="center"><b>2024</b></td>
+    <td align="center"><b>2025</b></td>
+    <td align="center"><b>2026</b></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://img.shields.io/badge/-1f6feb?style=flat-square&logo=github&logoColor=white" height="12" width="40" /></td>
+    <td align="center"><img src="https://img.shields.io/badge/-1f6feb?style=flat-square&logo=github&logoColor=white" height="12" width="40" /></td>
+    <td align="center"><img src="https://img.shields.io/badge/-238636?style=flat-square&logo=github&logoColor=white" height="12" width="40" /></td>
+    <td align="center"><img src="https://img.shields.io/badge/-238636?style=flat-square&logo=github&logoColor=white" height="12" width="40" /></td>
+    <td align="center"><img src="https://img.shields.io/badge/-2ea043?style=flat-square&logo=github&logoColor=white" height="12" width="40" /></td>
+    <td align="center"><img src="https://img.shields.io/badge/-2ea043?style=flat-square&logo=github&logoColor=white" height="12" width="40" /></td>
+    <td align="center"><img src="https://img.shields.io/badge/-3fb950?style=flat-square&logo=github&logoColor=white" height="12" width="40" /></td>
+    <td align="center"><img src="https://img.shields.io/badge/-3fb950?style=flat-square&logo=github&logoColor=white" height="12" width="40" /></td>
+  </tr>
+  <tr>
+    <td align="center"><sub>Started</sub></td>
+    <td align="center"><sub>Growing</sub></td>
+    <td align="center"><sub>Building</sub></td>
+    <td align="center"><sub>Scaling</sub></td>
+    <td align="center"><sub>Shipping</sub></td>
+    <td align="center"><sub>Leading</sub></td>
+    <td align="center"><sub>Crafting</sub></td>
+    <td align="center"><sub>Now</sub></td>
+  </tr>
+</table>
+
 </div>
 
 <br>
